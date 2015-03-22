@@ -6,9 +6,8 @@
 	<string>io.hiltunen.SPDIFKeepAlive</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>/bin/sh</string>
-		<string>-c</string>
-		<string>say " "</string>
+		<string>/usr/bin/say</string>
+		<string> </string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
