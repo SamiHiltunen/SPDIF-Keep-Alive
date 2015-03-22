@@ -5,9 +5,9 @@ SPDIF Keep Alive is a daemon for OS X that prevents the optical audio output fro
 
 The installation requires administrator privileges. Open a terminal and type the following commands:
 ```Batchfile
-git clone https://github.com/SamiHiltunen/SPDIF-Keep-Alive.git
-cd SPDIF-Keep-Alive
-./install.sh
+$ git clone https://github.com/SamiHiltunen/SPDIF-Keep-Alive.git
+$ cd SPDIF-Keep-Alive
+$ ./install.sh
 ```
 
 The daemon will be launched after the installation and will be always running in the background. 
